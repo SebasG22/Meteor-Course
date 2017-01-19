@@ -1,0 +1,26 @@
+# == Files to ignore by Git
+
+# -- From Javascript
+
+# npm
+node_modules/
+npm-debug.log
+
+
+
+# -- From Editors and IDEs
+
+# Netbeans
+nbactions.xml
+/nb-configuration.xml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# WebStorm / IntelliJ
+.idea/
+
+# Atom
+.DS_Store
